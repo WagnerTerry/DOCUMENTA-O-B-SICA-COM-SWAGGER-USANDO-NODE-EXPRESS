@@ -8,3 +8,5 @@ configurar em package.json
 
 "test": "echo \"Error: no test specified\" && exit 1",
 "start": "nodemon app.js"
+
+caminho: http://localhost:5000/api-docs/
